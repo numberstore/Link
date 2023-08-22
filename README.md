@@ -1,3 +1,1 @@
-```java
-public class Main{}
-```
+{"link":"google.com"}
